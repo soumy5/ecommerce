@@ -1,4 +1,3 @@
-// const connection = require("../database/db")
 const createConnection = require("../database/db")
 const product = {}
 
